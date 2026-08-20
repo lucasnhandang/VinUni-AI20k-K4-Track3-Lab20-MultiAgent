@@ -1,7 +1,6 @@
 # Multi-Agent Research System: Benchmark Report
 
 Đặng Văn Nhân - 2A202601050
-Link trace:
 
 ## 1. Metrics Comparison
 
